@@ -1,6 +1,7 @@
 # -Mirror
 A program to simulate world according to Math\Physics\Chemistry theorem 
 
+# 更新记录
 ——Version 0.0.2——
 本程序为平面引力仿真。新加入月球，你仔细看地球旁边的那个小白点就是月球。
 
