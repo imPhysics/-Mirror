@@ -1,5 +1,5 @@
 # -Mirror
-A program to simulate world according to Math\Physics\Chemistry theorem 
+One program that concentrate on world simulation be implemented by Math\Physics\Chemistry theorem
 
 当前支持平台：Windows 64bit
 
