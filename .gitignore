@@ -2,3 +2,4 @@ $tf/*
 -Mirror/x64/*
 *.suo
 -Mirror.VC.db
+-Mirror/-Mirror.vcxproj.user
